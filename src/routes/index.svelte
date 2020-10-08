@@ -41,7 +41,7 @@
 <h1>Great Johan!</h1>
 
 <figure>
-  <img alt="Borat" src="Untitled.png" />
+  <img alt="Borat" src="Untitled2.png" />
   <figcaption>HIGH FIVE!</figcaption>
 </figure>
 
