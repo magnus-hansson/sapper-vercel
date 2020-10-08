@@ -38,7 +38,7 @@
   <title>Sapper project template on vercel</title>
 </svelte:head>
 
-<h1>Great vercel!</h1>
+<h1>Great Johan!</h1>
 
 <figure>
   <img alt="Borat" src="great-success.png" />
